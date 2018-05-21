@@ -1,0 +1,25 @@
+article[class^='caja']{
+	height:220px;
+	width:300px;
+	display:inline-block;
+	border:2px solid black;
+}
+
+.caja1{
+	margin: 50px 10px 20px 10px;
+}
+
+h1{
+background-color:aqua;	
+	/*display: none;*/
+	opacity: 0;
+	width: 400px;
+}
+h2{
+	background-color: blue;
+   display: inline;
+}
+
+p{
+	display: inline;
+}
